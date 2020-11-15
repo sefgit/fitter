@@ -22,7 +22,7 @@ distribution.
 Here, we restrict the analysis to only 3 distributions by providing the list of
 distributions to consider. If you do not provide that parameter, 80
 distributions will be considered (the analysis will be longer) and computation
-make take a while to finish.
+may take a while to finish.
 
 
 The :meth:`fitter.fitter.Fitter.summary` method shows the first best distributions (in
